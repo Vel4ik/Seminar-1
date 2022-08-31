@@ -1,0 +1,15 @@
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\bin\Debug\net6.0\Task_4.exe
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\bin\Debug\net6.0\Task_4.deps.json
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\bin\Debug\net6.0\Task_4.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\bin\Debug\net6.0\Task_4.pdb
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\refint\Task_4.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.pdb
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\Знакомство с языками программирования\Семинар 1. Знакомство с языком программирования C#\Домашнее задание 1\Task_4\obj\Debug\net6.0\ref\Task_4.dll
